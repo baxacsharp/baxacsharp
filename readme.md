@@ -63,9 +63,10 @@
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
-
+<details>
+  <summary>My mostly used languages</summary>
 <img align ='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=baxacsharp&layout=compact)](https://github.com/baxacsharp/baxacsharp'/>
-
+</details>
 <!-- ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
