@@ -45,8 +45,8 @@
 
 ---
 
-<img align="left" alt="baxacsharp's GitHub Stats" src='https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true
-'/>
+<!-- <img align="left" alt="baxacsharp's GitHub Stats" src='https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true
+'/> -->
 
 <!-- ### 📺 Latest YouTube Videos
 
@@ -62,7 +62,7 @@
 
 ---
 
-<!-- <img align ='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=baxacsharp&layout=compact)](https://github.com/baxacsharp/baxacsharp'/> -->
+<img align ='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=baxacsharp&layout=compact)](https://github.com/baxacsharp/baxacsharp'/>
 
 <!-- ### 📕 Latest Blog Posts
 
