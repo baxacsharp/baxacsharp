@@ -1,4 +1,4 @@
-### Hi there, I'm Baxtiyor - aka 👋
+### Hi there, I'm Baxtiyor - Baxti 👋
 
 ## I'm a Student, Developer, and I love coding!!
 
@@ -44,6 +44,8 @@
 
 ---
 
+<img align="left" alt="baxacsharp's GitHub Stats" src="https://github-readme-stats.baxacsharp.vercel.app/api?username=baxacsharp&show_icons=true&hide_border=true" />
+
 <!-- ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -88,7 +90,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details> -->
 
