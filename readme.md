@@ -110,6 +110,11 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
+
+<a target="_blank">
+  <img align="right" height="330px" width="500px" src="https://miro.medium.com/max/1200/1*FkG7dPq9aReiWXbrcmL_1g.png" >
+</a>
+
 <br>
 <br>
 
