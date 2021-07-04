@@ -43,7 +43,7 @@
 <br />
 
 ---
-<img align="left" alt="baxacsharp's Github status" src="https://github-readme-stats.vercel.app/api?username=baxacsharp&show_icons=true&theme=highcontrast&bg_color=0.1,green,yellow,orange"/>
+<img align="left" alt="baxacsharp's Github status" src="https://github-readme-stats.vercel.app/api?username=baxacsharp&show_icons=true&theme=highcontrast&bg_color=90,#adff2f,#cfbc4d"/>
 
 <!-- <img align="left" alt="baxacsharp's GitHub Stats" src='https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true
 '/> -->
