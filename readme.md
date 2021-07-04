@@ -25,10 +25,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/baxacsharp" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/baxacsharp?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/baxacsharp?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://gpvc.arturio.dev/baxacsharp" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
+
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/baxacsharp?label=Followers&style=social"> •  
+ <img src="https://img.shields.io/github/stars/baxacsharp?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+
 </p>
 <p align="center">
   <code>
@@ -119,40 +120,40 @@
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://miro.medium.com/max/1200/1*FkG7dPq9aReiWXbrcmL_1g.png)
 
 **🐱 My Github Data**
 
-> 🏆 4,130 Contributions in the Year 2021
+> 🏆 230 Contributions in the Year 2021
 >
 > 📦 1.2 MB Used in Github's Storage
 >
 > 💼 Opted to Hire
 >
-> 📜 192 Public Repositories
+> 📜 45 Public Repositories
 >
 > 🔑 2 Private Repositories
 >
 > **I'm a Night 🦉**
 
 ```text
-🌞 Morning    99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65%
-🌆 Daytime    265 commits    ██████░░░░░░░░░░░░░░░░░░░   25.83%
-🌃 Evening    401 commits    █████████░░░░░░░░░░░░░░░░   39.08%
-🌙 Night      261 commits    ██████░░░░░░░░░░░░░░░░░░░   25.44%
+🌞 Morning    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   6.3%
+🌆 Daytime    20 commits     ██████░░░░░░░░░░░░░░░░░░░   12.7%
+🌃 Evening    70 commits     █████████░░░░░░░░░░░░░░░░   44.55%
+🌙 Night      57 commits     ██████░░░░░░░░░░░░░░░░░░░   36.34%
 
 ```
 
-📅 **I'm Most Productive on Sunday**
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.33%
-Tuesday      117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.4%
-Wednesday    113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.01%
-Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.87%
-Friday       128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
-Saturday     182 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74%
-Sunday       207 commits    █████░░░░░░░░░░░░░░░░░░░░   20.18%
+Monday       5 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   3.18%
+Tuesday      10 commits   ███░░░░░░░░░░░░░░░░░░░░░░   6.3%
+Wednesday    15 commits   ████░░░░░░░░░░░░░░░░░░░░░  9.55%
+Thursday     22 commits   ███░░░░░░░░░░░░░░░░░░░░░░   14.01%
+Friday       90 commits   █████░░░░░░░░░░░░░░░░░░░░   57.3%
+Saturday     10 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   6.3%
+Sunday       5 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   3.18%
 
 ```
 
@@ -162,23 +163,23 @@ Sunday       207 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-Other                    52 hrs 54 mins      ████████████████████░░░░░   81.35%
-C++                      4 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.49%
-EJS                      3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.09%
-JavaScript               2 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
+JavaScript               52 hrs 54 mins      ████████████████████░░░░░   51.35%
+Html                     4 hrs 52 mins       ████████████████████░░░░░   47.49%
+React                    3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.09%
+Typescript               2 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
 CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors:
-Browser                  52 hrs 51 mins      ████████████████████░░░░░   81.28%
+vsCode                   52 hrs 51 mins      ████████████████████░░░░░   81.28%
 WebStorm                 6 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
 CLion                    5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
 PyCharm                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 🐱‍💻 Projects:
-Just-Me                  18 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   28.73%
-CodeChef                 13 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   20.59%
-CodeForces               11 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.8%
-Face                     8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
+Spotify                  18 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   28.73%
+Weather                  13 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   20.59%
+Netflix                  11 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.8%
+Linkedin                 8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
 untitled                 7 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
 
 💻 Operating System:
@@ -186,74 +187,58 @@ Windows                  65 hrs 1 min        ███████████�
 
 ```
 
-**I Mostly Code in Jupyter Notebook**
-
-```text
-Jupyter Notebook         27 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27%
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21%
-C++                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12%
-Kotlin                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
-HTML                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
-
-```
-
 Last Updated on 04/07/2021
 
 <!--END_SECTION:waka-->
 
-<p align="center">
+<!-- <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
   </a>
   <a>
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
+  </a> -->
 </p>
 
 #
 
-<p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+<!-- <p align="center">
+  <a href="https://github.com/baxacsharp">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
   </a>
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
 <p align="center">
-  <a href='https://github.com/JayantGoel001/'>
-    <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
+  <a href='https://github.com/baxacsharp/'>
+    <img width="75%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-66gqMgljcTarwjCgj3eUWSvbKOcVvJO2A&usqp=CAU"/>
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
-</p>
+</p> -->
 
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://i.pinimg.com/originals/58/ff/ce/58ffce692cc74a0581d2e8ff6890f19a.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+  <a href="www.linkedin.com/in/baxtiyor-abduvoitov" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
+  <a href="https://www.facebook.com/baxtiyor.abduvoitov.7" target="_blank">
+    <code><img  height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+  <a href="https://www.instagram.com/baxticsharp/?hl=en" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
+ 
 </p>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
   </a>
@@ -269,14 +254,14 @@ Last Updated on 04/07/2021
   <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
   </a>
-</p>
+</p> -->
 
 <br/>
 <br/>
 
 <p align="center">
   <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
+    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://media.tenor.com/images/8c529fcce7764750f033e675f0883378/tenor.gif" width="100px" height="100px">
   </a>
 </p>
 
@@ -288,4 +273,4 @@ Last Updated on 04/07/2021
 
 #
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+![footer](https://www.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg)
