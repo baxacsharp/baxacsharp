@@ -43,8 +43,10 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="baxacsharp's Github status" src="https://github-readme-stats.vercel.app/api?username=baxacsharp&show_icons=true&theme=highcontrast&border_radius=50%"/>
-
+</details>
 <!-- <img align="left" alt="baxacsharp's GitHub Stats" src='https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true
 '/> -->
 
