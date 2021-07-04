@@ -45,9 +45,9 @@
 
 ---
 
-<img align="left" alt="baxacsharp's GitHub Stats" src="github-readme-stats-coral-theta.vercel.app
+<img align="left" alt='baxacsharp's GitHub Stats" src="github-readme-stats-coral-theta.vercel.app
 /api?username=baxacsharp&show_icons=true&theme=tokyonight
-" />
+'/>
 
 <!-- ### 📺 Latest YouTube Videos
 
