@@ -98,8 +98,6 @@
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](hhttps://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
