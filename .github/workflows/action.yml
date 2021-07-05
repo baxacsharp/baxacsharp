@@ -12,8 +12,8 @@ jobs:
         uses: baxacsharp/metrics@master
         with:
           filename: metrics.svg
-          # token: ${{ secrets.METRICS_TOKEN }}
-          # committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, activity, community, repositories"
 
           plugin_lines: yes
@@ -39,7 +39,7 @@ jobs:
           plugin_people_limit: 100
           plugin_people_size: 28
           plugin_tweets: yes
-          # plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           repositories_forks: yes
           plugin_skyline: yes
           plugin_skyline_year: 2021
@@ -60,13 +60,13 @@ jobs:
         uses: baxacsharp/metrics@master
         with:
           filename: metrics.detailed.svg
-          # token: ${{ secrets.METRICS_TOKEN }}
-          # committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "metadata"
           plugin_gists: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_languages: yes
