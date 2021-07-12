@@ -96,9 +96,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=baxacsharp&theme=react-dark&hide_border=true&area=true)
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
 #
@@ -186,15 +184,7 @@ Windows                  65 hrs 1 min        ███████████�
 
 Last Updated on 04/07/2021
 
-<!--END_SECTION:waka-->
 
-<!-- <p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a> -->
 </p>
 
 #
@@ -209,7 +199,7 @@ Last Updated on 04/07/2021
 <p align="center">
   <a href='https://github.com/baxacsharp/'>
     <img width="75%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-66gqMgljcTarwjCgj3eUWSvbKOcVvJO2A&usqp=CAU"/>
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
+   
   </a>
 </p> -->
 
@@ -235,23 +225,6 @@ Last Updated on 04/07/2021
 </p>
 <br/>
 
-<!-- <p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
-</p> -->
 
 <br/>
 <br/>
