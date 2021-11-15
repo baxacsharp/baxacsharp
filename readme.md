@@ -105,6 +105,8 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
   <!--START_SECTION:waka--><!--END_SECTION:waka-->
+  <img src="https://github.com/baxacsharp/baxacsharp/blob/master/images/stat.svg" alt="Alternative Text"/>
+
 </summary>
 
 
