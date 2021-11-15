@@ -113,7 +113,6 @@
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://miro.medium.com/max/1200/1*FkG7dPq9aReiWXbrcmL_1g.png)
 
 **🐱 My Github Data**
 
