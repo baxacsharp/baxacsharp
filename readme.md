@@ -106,9 +106,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/static/img/ScreenShots/dashboard.png" >
-</a>
+
 
 <br>
 <br>
